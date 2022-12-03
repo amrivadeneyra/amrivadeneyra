@@ -6,7 +6,7 @@ I have great imagination and initiative to develop new ideas and easy to make de
 Great capacity for teamwork, integration, flexibility, dynamism and ability to face challenging and self-improvement situations.
 
 ## 🌐  CONNECT WITH ME:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ManuelRivadeneyra32) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@ManuelRI#3136) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ManuelRivadeneyra32) 
 
 
  
