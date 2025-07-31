@@ -103,7 +103,7 @@ Soy una persona muy dedicada y orientada a objetivos. Desarrollo proyectos basá
 
 ## 🌐 Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andersonrivadeneyra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arivadeneyrai)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ManuelRivadeneyra32)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.rivadeneyra@gmail.com)
 
@@ -180,7 +180,7 @@ Ingeniería de Sistemas | Lima, Perú
 **Ubicación:** Lima, Perú 🇵🇪  
 **Teléfono:** +51 907 960 250  
 **Email:** anderson.rivadeneyra@gmail.com  
-**LinkedIn:** linkedin.com/in/andersonrivadeneyra  
+**LinkedIn:** www.linkedin.com/in/arivadeneyrai  
 **Disponibilidad:** Abierto a nuevas oportunidades  
 **Intereses:** Angular, Go, Flutter, Java/Spring Boot, IA, Desarrollo móvil
 
